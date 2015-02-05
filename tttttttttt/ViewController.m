@@ -13,6 +13,7 @@
     NSString*str111;
 
     int flag;
+    NSString*strr;
 }
 
 
