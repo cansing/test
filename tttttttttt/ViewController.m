@@ -8,7 +8,12 @@
 
 #import "ViewController.h"
 
-@interface ViewController ()
+@interface ViewController (){
+    NSString*str;
+    NSString*str111;
+}
+
+
 
 @end
 
