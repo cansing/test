@@ -11,6 +11,8 @@
 @interface ViewController (){
     NSString*str;
     NSString*str111;
+
+    int flag;
 }
 
 
