@@ -14,6 +14,9 @@
 
     int flag;
     NSString*strr;
+
+
+    
 }
 
 
